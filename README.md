@@ -13,3 +13,9 @@ npx degit PyrobyteWeb/vite-start-template-pyrobyte#main my-app-name
 ```shell
 npm install
 ```
+
+Инициализировать git репозиторий:
+
+```shell
+git init
+```
